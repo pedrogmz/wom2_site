@@ -1,0 +1,1 @@
+<?PHP $news_info = array( );

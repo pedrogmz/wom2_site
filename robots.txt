@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /user/*
+Disallow: /active/*
+Disallow: /app/*
+Disallow: /language/es/*
+Disallow: /language/en/*
+Disallow: /language/ro/*
