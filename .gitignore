@@ -1,2 +1,3 @@
 board/
 wom2_site
+app/include/cron/*
