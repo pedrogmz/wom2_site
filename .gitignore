@@ -1,4 +1,4 @@
 board/
-wom2_site
-app/include/cron/*
-configure.php
+wom2_site/
+app/include/cron/
+app/include/configure.php
