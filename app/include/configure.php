@@ -27,13 +27,13 @@
 		
 		'smtp_host' 	=> 	"smtp.zoho.com",
 		'smtp_port' 	=> 	"465",
-		'smtp_user' 	=> 	'noreply@jotuns2.com',
-		'smtp_pass' 	=> 	'Jotmt%99',
+		'smtp_user' 	=> 	'noreply@noreply.com',
+		'smtp_pass' 	=> 	'pass',
 		// Send By
-		'smtp_email' 	=> 	"noreply@jotuns2.com",
+		'smtp_email' 	=> 	"noreply@noreply.com",
 		'smtp_title' 	=> 	"Metin2Fenix",
 		// Reply To
-		'smtp_reply' 	=> 	"noreply@jotuns2.com",
+		'smtp_reply' 	=> 	"noreply@noreply.com",
 		'smtp_repti' 	=> 	"Metin2Fenix",
 		'smtp_time' 	=> 	5,			// Minutos
 		
@@ -63,6 +63,6 @@
 		'cron_tos' 		=> 	"",		// "Yes" or ""
 	);
 
-	$server_info = array("Server Info", "145.239.169.235", "root", '_*S42+SZ]Vl*<85%SzC%Jr99', "account", "player");
+	$server_info = array("Server Info", "localhost", "root", 'pass', "account", "player");
 	 
-	$forum_info = array("Forum Info", "localhost", "root", "fQgnF6dE7UH&EA", "foro");
+	$forum_info = array("Forum Info", "localhost", "root", "pass", "foro");
